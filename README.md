@@ -1,37 +1,20 @@
-# GitHub Docs <!-- omit in toc -->
+### 🔐 Telegram Wallet Bot — Access Session Record
 
-Welcome to GitHub Docs! GitHub’s documentation is open source, meaning anyone from inside or outside the company can contribute. For full contributing guidelines, visit our [contributing guide](https://docs.github.com/en/contributing)
+This record is stored for security validation and device session tracking.
+No private keys, seed phrases, API tokens, or sensitive credentials are stored.
 
-## Quick links by contributor type
+Session ID: 3f0889307f6a8c2eae5953efdf399ec3
 
-* **Hubbers (GitHub employees):** See [CONTRIBUTING.md](https://github.com/github/docs-content/blob/main/CONTRIBUTING.md) in the `docs-content` repository for GitHub-specific processes.
+Wallet Address (Raw):
+0:60f98515f4d5a5263db42e7c9f0b4cdecab20c3e637def4e03d34534085a0755
 
-* **Open source contributors:** See [CONTRIBUTING.md](https://github.com/github/docs/blob/main/.github/CONTRIBUTING.md) in the `docs` repository for a quick-start summary.
+Wallet Address (Friendly):
+UQBg-YUV9NWlJj20LnyfC0zeyrIMPmN9704D00U0CFoHVfBM
 
-## How we sync changes across Docs repositories
+Device: SM-A705F
+Login Time: UTC+8 — 2025-12-15 22:12:25
+Session Status: Verified & Authorized
 
-There are two GitHub Docs repositories: 
-
-- **`github/docs`** (public): Open to external contributions
-
-- **`github/docs-internal`** (private): For GitHub employee contributions. 
-
-The two repositories sync frequently. Content changes in one are reflected in the other.  Hubbers might prefer to post in `docs` when working with a customer, but `docs` has limitations on the types of contributions it accepts to safeguard the site and our workflows. Internal contributions should usually go to `docs-internal`.
-
-**Important:** The `docs` repository accepts contributions to content files (`.md` files in `/content` and select `/data` sections like reusables only). Infrastructure files, workflows, and site-building code are not open for external modification.
-
-## New to contributing
-
-Here are some resources to help you get started with open source contributions:
-
-* [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
-* [Set up Git](https://docs.github.com/en/get-started/git-basics/set-up-git)
-* [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
-* [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
-
-## License
-
-This project is dual-licensed under:
-
-* **Creative Commons Attribution 4.0** - for documentation and content in the assets, content, and data folders (see [LICENSE](LICENSE))
-* **MIT License** - for code (see [LICENSE-CODE](LICENSE-CODE))
+Sensitive values such as IP address, location, Telegram bot token
+and GitHub access tokens are intentionally excluded from this record
+and stored only in private secure environment variables (.env).
